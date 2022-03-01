@@ -1,0 +1,46 @@
+id: dd02a5eebccf40cd97313fb3da288bcb
+annotation_type: index
+revision: '00001'
+annotations:
+  688d838c1d754aa0b4f1f43fd7a65019:
+    work_id: W3F0228F4
+    span:
+      vol: colophon
+      start: 0
+      end: 151
+  12eea674ce2746f2b881ef8f7e4caaed:
+    work_id: W5AA9130F
+    span:
+      vol: nidāna
+      start: 0
+      end: 0
+  74d82307555d4b7ab60524a1b5f8abf3:
+    work_id: W6D699469
+    span:
+      vol: §1-20
+      start: 0
+      end: 2861
+  414dc8103e2c42f7917712abb9824029:
+    work_id: W10358750
+    span:
+      vol: §21-40
+      start: 0
+      end: 3161
+  723f11af49b04daa88d0bfde9de12b96:
+    work_id: WC8CD8869
+    span:
+      vol: §41-60
+      start: 0
+      end: 3178
+  2da11238b7654560976b36561612ea19:
+    work_id: W72880852
+    span:
+      vol: §61-80
+      start: 0
+      end: 3141
+  d57fd2edbdfb42719823c34757005b39:
+    work_id: WD3A87584
+    span:
+      vol: §81-100
+      start: 0
+      end: 3226
